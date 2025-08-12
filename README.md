@@ -116,3 +116,10 @@ Consider a bank’s **loan approval process**:
 * **Empowered business teams** — analysts manage rules directly.
 * **Reduced deployment risk** — rule changes do not require application redeploys.
 * **Improved compliance** — rapid adaptation to new regulations.
+
+## 📬 Contact
+
+For any inquiries, feel free to reach out:
+
+- **Email:** [nestorabiawuh@gmail.com](mailto:nestorabiawuh@gmail.com)
+- **LinkedIn:** [Nestor Abiangang A.](hhttps://www.linkedin.com/in/nestor-abiangang/)
