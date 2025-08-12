@@ -1,0 +1,3 @@
+2025-08-12 07:30:55.445567+03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DELETE FROM LOAN_ENTITY where id=1L[*]OAN_ENTITY"; SQL statement:
+DELETE FROM LOAN_ENTITY where id=1LOAN_ENTITY [42000-232]

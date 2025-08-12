@@ -1,0 +1,30 @@
+server:
+  port: 8086
+
+spring:
+  application:
+    name: b-bank-system
+
+  datasource:
+    url: jdbc:h2:file:./data/bbankdb
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  h2:
+    console:
+      enabled: true
+      path: /h2-console  # ⬅️ Console URL: http://localhost:8086/h2-console
+
+
+kie:
+  server:
+    url: http://localhost:8080/kie-server/services/rest/server
+    username: rhdmAdmin
+    password: Root@password25
+    containerId: LoanManager_1.0.3-SNAPSHOT
+    ksessionName: LoanStatelessSession
